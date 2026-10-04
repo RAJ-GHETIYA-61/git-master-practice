@@ -8,3 +8,4 @@ Change made by collaborator
 Local developer change
 Remote developer change
 Remote rebase change
+Local rebase change
